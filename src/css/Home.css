@@ -1,0 +1,34 @@
+.carousel-indicators {
+  z-index: 0;
+}
+
+.carousel-control-prev {
+  left: 0;
+  z-index: 0;
+}
+.carousel-control-next {
+  right: 0;
+  z-index: 0;
+}
+
+.product {
+  /* border: 2px solid black; */
+  padding: 50px 20px;
+}
+
+.product .row {
+  justify-content: center;
+}
+.column01 {
+  text-align: -webkit-center;
+  box-shadow: inset 0px 0 34px -33px;
+  border-radius: 20px;
+  margin: 0 40px;
+}
+
+.column01 h4 {
+  text-align: center;
+  font-size: initial;
+  font-family: inherit;
+  padding: 10px 5%;
+}

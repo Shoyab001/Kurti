@@ -1,0 +1,38 @@
+.FooteCol1 h2 {
+  font-size: revert;
+  font-family: inherit;
+  padding-top: 37px;
+  color: purple;
+  margin: 0px;
+}
+
+.FooteCol1 p {
+  font-weight: 500;
+  margin: 8px;
+}
+
+.FooteCol1 p svg {
+  width: 36px;
+  height: 20px;
+  margin-top: 10px;
+}
+
+.detail {
+  margin-top: 30px;
+}
+
+.detail .dCol01 {
+  text-align: center;
+}
+
+.detail .dCol01 h3 {
+  font-size: initial;
+  color: purple;
+}
+
+.dCol02 ul li a {
+  color: black;
+  text-decoration: none;
+  font-size: small;
+  font-weight: 600;
+}

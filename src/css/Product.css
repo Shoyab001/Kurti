@@ -1,0 +1,49 @@
+.section-three {
+  margin: 40px 0;
+}
+.single-img {
+  position: relative;
+  margin: 10px;
+}
+.single-img-content {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  color: #fff;
+  padding: 5px 30px;
+  background: rgba(0, 0, 0, 0.7);
+}
+.single-img-content h3 {
+  font-size: 18px;
+  font-weight: 300;
+  text-transform: uppercase;
+}
+
+.productsection {
+  background-color: #f4f4f4;
+  text-align: center;
+}
+
+.productsection h2 {
+  border-bottom: 3px solid skyblue;
+  display: inline-block;
+  padding-bottom: 6px;
+  margin-top: 70px;
+}
+
+.gallery .card-text {
+  margin-top: 0;
+  margin-bottom: 5px;
+}
+
+.gallery .row .col {
+  margin-top: 30px;
+}
+
+.btnmore {
+  width: 180px;
+  background-color: white;
+  margin: 30px 0px 20px;
+  box-shadow: 0px 0px 25px -10px;
+}
