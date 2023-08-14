@@ -10,8 +10,8 @@ const Layout = () => {
       <Navbar collapseOnSelect expand="lg" className="bg-body-tertiary navbar">
         <Container>
           <Navbar.Brand href="#home" className="logo">
-            {/* <img width={"85px"} src="./img/logo.png" alt="modelled-dress" /> */}
-            <p>Jaipur Creation</p>
+            <img width={"85px"} src="./img/logo.png" alt="modelled-dress" />
+            {/* <p>Jaipur Creation</p> */}
           </Navbar.Brand>
           <Navbar.Toggle aria-controls="responsive-navbar-nav" />
           <Navbar.Collapse
@@ -21,8 +21,8 @@ const Layout = () => {
             <Nav className="navbtn">
               <Link to="/">Home</Link>
               <Link to="/product">Our Product</Link>
-              {/* <Link to="/about">About Us</Link>
-              <Link to="/contact">Contact</Link> */}
+              {/* <Link to="/about">About Us</Link> */}
+              <Link to="/contact">Contact Us</Link>
             </Nav>
           </Navbar.Collapse>
         </Container>

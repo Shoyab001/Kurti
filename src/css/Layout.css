@@ -27,3 +27,9 @@
 .navbtn a:hover {
   background-color: #e7e7e7;
 }
+
+@media only screen and (max-width: 425px) {
+  .logo img{
+    
+  }
+}

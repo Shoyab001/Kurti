@@ -1,7 +1,7 @@
 .FooteCol1 h2 {
   font-size: revert;
   font-family: inherit;
-  padding-top: 37px;
+  padding-top: 10px;
   color: purple;
   margin: 0px;
 }
@@ -28,6 +28,16 @@
 .detail .dCol01 h3 {
   font-size: initial;
   color: purple;
+}
+.detail .dCol03 h3 {
+  font-size: initial;
+  color: purple;
+}
+.dCol01 p{
+  font-size: 12px;
+}
+.dCol03 p{
+  font-size: 13px;
 }
 
 .dCol02 ul li a {

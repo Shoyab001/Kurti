@@ -8,6 +8,8 @@ const Footer = () => {
       <Container style={{ padding: "40px" }}>
         <Row>
           <Col style={{ textAlign: "center" }} className="FooteCol1">
+            <img width={"85px"} src="./img/logo.png" alt="modelled-dress" />
+
             <h2>JOIN OUR COMMUNITY</h2>
             <p>
               Get exclusive access to our latest offers, new launches, style
@@ -48,9 +50,11 @@ const Footer = () => {
             <Row className="detail">
               <Col className="dCol01">
                 <h3>Address</h3>
+                <p>01, Time Square, Sector 2 Rd, Sector 2, Central Spine, Vidyadhar Nagar, Japur, Rajasthan 302039</p>
               </Col>
-              <Col className="dCol01">
+              <Col className="dCol03">
                 <h3>Contact Us</h3>
+                <p>+91 7375048000, 8385830850</p>
               </Col>
               <Col className="dCol02" style={{ textAlign: "start" }}>
                 <ul>
@@ -100,7 +104,7 @@ const Footer = () => {
                   </li>
                   <li>
                     <a href="#">
-                      Contact Usefeev{" "}
+                      Contact Us{" "}
                       <svg
                         xmlns="http://www.w3.org/2000/svg"
                         width="16"
